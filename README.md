@@ -1,6 +1,6 @@
 # Azure Text-to-Speech Integration
 
-This application is a simple `Text-to-Speech` Application using `Azure Cognitive Services`. It allows you to convert text into speech using a selected Azure speech service, and also supports uploading a `.txt` file to read and convert the content to speech.
+This application is a simple `Text-to-Speech` Application using `Azure Cognitive Services`. It allows you to convert ` text into speech ` using a selected Azure speech service, and also supports uploading a `.txt` file to read and convert the content to speech.
 
 ## Technologies
 
