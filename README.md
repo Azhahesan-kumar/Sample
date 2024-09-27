@@ -12,9 +12,9 @@ This application is a simple `Text-to-Speech` Application using `Azure Cognitive
 
 ## Features
 
-- Convert user input text into speech.
-- Upload a .txt file and convert its content to speech.
-- Utilizes Azure Cognitive Services for text-to-speech conversion.
+- Convert user input `text into speech`.
+- Upload a `.txt` file and convert its content to speech.
+- Utilizes Azure Cognitive Services for `text-to-speech` conversion.
 
 ## Create a Microsoft Azure Text-to-Speech API key using the following link
 
